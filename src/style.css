@@ -1,9 +1,9 @@
-div {
-  margin-bottom: 10px;
+.field {
+  margin-bottom: 20px;
 }
 
-fieldset {
-  margin-bottom: 20px;
+.nonLast {
+  margin-bottom: 10px;
 }
 
 .last {
