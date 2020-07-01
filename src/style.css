@@ -2,10 +2,6 @@
   margin-bottom: 20px;
 }
 
-.nonLast {
+.margined {
   margin-bottom: 10px;
-}
-
-.last {
-  margin: 0;
 }
